@@ -103,7 +103,7 @@ and can improve your chance of getting selected.
 - [x] Trainings or workshops he may have attended  
 - [x] Any position of responsibility (event coordinator, magazine editor, Headboy etc.) that he may have handled in school or college
 - [x] Any co/extra curricular activity that he may have participated in 
-- [ ] Any job/internship he may have done in past
+- [x] Any job/internship he may have done in past
 - [ ] His parents' occupation details 
 
 #####Explanation
