@@ -409,7 +409,7 @@ solution before discontinuing.
 - [x] Carry a copy of your resume and portfolio along with any other documents requested by the organization
 - [ ] Buy desserts for the employer on your way
 - [x] Make sure you have a neat and clean appearance and are dressed professionally, as it creates a lasting impression 
-- [x] YReach the interview location at least 10-15 minutes before time
+- [x] Reach the interview location at least 10-15 minutes before time
 
 #####Explanation
 ```markdown
